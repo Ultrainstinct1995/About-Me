@@ -4,7 +4,7 @@
 
 - <b>CyberSecurity Project</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Ultrainstinct1995/SandBox)
-  - [Documenting Risk Compliance](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Documenting Risk Compliance](https://github.com/Ultrainstinct1995/SandBox) <b><i></b></i>
 
 - <b>Python/SQL/Linux</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
