@@ -4,15 +4,16 @@
 
 - <b>CyberSecurity Project</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Ultrainstinct1995/SandBox)
-  - 
-  - [Documenting Risk Compliance](https://github.com/Ultrainstinct1995/Incident-Response/blob/main/README.md) <b><i></b></i>
+   
+  - [Documenting Risk Compliance (Will be uploaded soon)](https://github.com/Ultrainstinct1995/Incident-Response/blob/main/README.md) <b><i></b></i>
 
 - <b>Python/Linux/SQL</b>
   - [Python: Algorithms](https://github.com/Ultrainstinct1995/Python)
-  - 
-  - Linux: 
-  - 
-  - SQL: 
+   
+  - Linux: (Will be uploaded soon)  
+
+  - SQL: (Will be uploaded soon)
+
 
 <h2> 🤳 Connect with me:</h2>
 
