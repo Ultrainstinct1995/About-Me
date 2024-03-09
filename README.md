@@ -7,7 +7,7 @@
   - [Documenting Risk Compliance](https://github.com/Ultrainstinct1995/Incident-Response/blob/main/README.md) <b><i></b></i>
 
 - <b>Python/SQL/Linux</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Import and IP Address Changes](https://github.com/Ultrainstinct1995/Python)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
