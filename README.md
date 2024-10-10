@@ -9,10 +9,6 @@
 
 - <b>Python/Linux/SQL</b>
   - [Python: Algorithms](https://github.com/Ultrainstinct1995/Python)
-   
-  - Linux: (Will be uploaded soon)  
-
-  - SQL: (Will be uploaded soon)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -22,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on - A lot of things!
   
-- 🌱 I’m currently learning - Comptia Security+
+- 🌱 I’m currently learning - CCNA
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Sports, Music, Theories on astronomy, etc.
